@@ -146,7 +146,7 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-01-04 13:17 CST）
+## API 状态（最近更新：2026-01-04 14:15 CST）
 
 - 总 API 数量：80
 - 成功 API 数量：73
@@ -226,9 +226,9 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🎬茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | 🔞森林资源 | https://beiyong.slapibf.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | 🎬电影天堂 | http://caiji.dyttzyapi.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
+| ✅ | 🔞AIvin | http://lbapiby.com/api.php/provide/vod | 95 | 5 | 95.0% | 0 |
 | ✅ | 🎬山海资源 | https://zy.sh0o.cn/api.php/provide/vod | 94 | 6 | 94.0% | 0 |
-| ✅ | 🔞AIvin | http://lbapiby.com/api.php/provide/vod | 94 | 6 | 94.0% | 0 |
-| ✅ | 🎬虎牙资源 | https://www.huyaapi.com/api.php/provide/vod/at/json | 92 | 8 | 92.0% | 0 |
+| ✅ | 🎬虎牙资源 | https://www.huyaapi.com/api.php/provide/vod/at/json | 93 | 7 | 93.0% | 0 |
 | ✅ | 🎬iKun资源 | https://ikunzyapi.com/api.php/provide/vod | 91 | 9 | 91.0% | 0 |
 | ✅ | 🔞jkun资源 | https://jkunzyapi.com/api.php/provide/vod | 91 | 9 | 91.0% | 0 |
 | ✅ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 90 | 10 | 90.0% | 0 |
