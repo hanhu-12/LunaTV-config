@@ -146,7 +146,7 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-03-10 04:19 CST）
+## API 状态（最近更新：2026-03-10 05:20 CST）
 
 - 总 API 数量：80
 - 成功 API 数量：71
@@ -217,11 +217,11 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🔞大奶子 | https://apidanaizi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🔞豆豆资源 | https://api.douapi.cc/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🎬iKun资源 | https://ikunzyapi.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
+| ✅ | 🎬飘零资源 | https://p2100.net/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 🔞AIvin | http://lbapiby.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 🔞百万资源 | https://api.bwzyz.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 🎬建安资源 | http://154.219.117.232:9981/jacloudapi.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | 🎬新浪资源 | https://api.xinlangapi.com/xinlangapi.php/provide/vod | 97 | 3 | 97.0% | 0 |
-| ✅ | 🎬飘零资源 | https://p2100.net/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | 🎬魔都动漫 | https://caiji.moduapi.cc/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | 🔞奶香资源 | https://Naixxzy.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | 🔞滴滴资源 | https://api.ddapi.cc/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
