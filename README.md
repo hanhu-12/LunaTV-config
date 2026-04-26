@@ -146,14 +146,14 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-04-26 23:32 CST）
+## API 状态（最近更新：2026-04-27 00:28 CST）
 
 - 总 API 数量：80
-- 成功 API 数量：67
-- 失败 API 数量：13
-- 平均可用率：85.3%
-- 完美可用率（100%）：43 个
-- 高可用率（80%-99%）：26 个
+- 成功 API 数量：65
+- 失败 API 数量：15
+- 平均可用率：85.2%
+- 完美可用率（100%）：41 个
+- 高可用率（80%-99%）：28 个
 - 中等可用率（50%-79%）：0 个
 - 低可用率（<50%）：11 个
 
@@ -167,8 +167,6 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🎬优质资源 | https://api.yzzy-api.com/inc/apijson.php | 100 | 0 | 100.0% | 0 |
 | ✅ | 🎬最大点播 | https://zuidazy.me/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 🎬最大资源 | https://api.zuidapi.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
-| ✅ | 🎬卧龙资源 | https://wolongzyw.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
-| ✅ | 🎬卧龙资源1 | https://collect.wolongzyw.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 🎬天涯影视 | https://tyyszy.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 🎬建安资源 | http://154.219.117.232:9981/jacloudapi.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 🎬快车资源 | https://caiji.kuaichezy.org/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
@@ -205,6 +203,8 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🔞辣椒资源 | https://apilj.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 🔞鲨鱼资源 | https://shayuapi.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 🔞黄AVZY | https://www.pgxdy.com/api/json.php | 100 | 0 | 100.0% | 0 |
+| ❌ | 🎬卧龙资源 | https://wolongzyw.com/api.php/provide/vod | 99 | 1 | 99.0% | 1 |
+| ❌ | 🎬卧龙资源1 | https://collect.wolongzyw.com/api.php/provide/vod | 99 | 1 | 99.0% | 1 |
 | ✅ | 🎬新浪资源 | https://api.xinlangapi.com/xinlangapi.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🎬旺旺资源 | https://api.wwzy.tv/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🎬爱奇艺 | https://iqiyizyapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
@@ -212,11 +212,11 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🎬非凡影视 | https://cj.ffzyapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🎬非凡资源 | https://api.ffzyapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🔞乐播资源 | https://lbapi9.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
-| ❌ | 🔞奥斯卡 | https://aosikazy.com/api.php/provide/vod | 99 | 1 | 99.0% | 1 |
 | ✅ | 🔞百万资源 | https://api.bwzyz.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🔞细胞资源 | https://www.xxibaozyw.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🎬红牛资源 | https://www.hongniuzy2.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 🎬豆瓣资源 | https://caiji.dbzy5.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
+| ❌ | 🔞奥斯卡 | https://aosikazy.com/api.php/provide/vod | 98 | 2 | 98.0% | 2 |
 | ✅ | 🎬猫眼资源 | https://api.maoyanapi.top/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | 🎬速播资源 | https://subocaiji.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | 🔞奶香资源 | https://Naixxzy.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
@@ -229,9 +229,9 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🎬光速资源 | https://api.guangsuapi.com/api.php/provide/vod | 93 | 7 | 93.0% | 0 |
 | ✅ | 🎬金鹰资源 | https://jyzyapi.com/provide/vod/from/jinyingyun/at/json | 89 | 11 | 89.0% | 0 |
 | ✅ | 🎬虎牙资源 | https://www.huyaapi.com/api.php/provide/vod/at/json | 87 | 13 | 87.0% | 0 |
-| ❌ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 83 | 17 | 83.0% | 1 |
-| ✅ | 🔞丝袜资源 | https://siwazyw.tv/api.php/provide/vod/at/json | 81 | 19 | 81.0% | 0 |
-| 🚨 | 🎬金鹰点播 | https://jinyingzy.com/api.php/provide/vod | 43 | 57 | 43.0% | 55 |
+| ✅ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 84 | 16 | 84.0% | 0 |
+| ❌ | 🔞丝袜资源 | https://siwazyw.tv/api.php/provide/vod/at/json | 80 | 20 | 80.0% | 1 |
+| 🚨 | 🎬金鹰点播 | https://jinyingzy.com/api.php/provide/vod | 42 | 58 | 42.0% | 56 |
 | 🚨 | 🎬U酷88 | https://jjpz.hafrey.dpdns.org/?url=https://api.ukuapi88.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬U酷资源 | https://jjpz.hafrey.dpdns.org/?url=https://api.ukuapi.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬如意资源 | https://jjpz.hafrey.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
