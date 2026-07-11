@@ -146,7 +146,7 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-07-12 01:43 CST）
+## API 状态（最近更新：2026-07-12 02:40 CST）
 
 - 总 API 数量：80
 - 成功 API 数量：69
@@ -154,8 +154,8 @@ https://api.example.workers.dev/?config=1&encode=base58
 - 平均可用率：86.1%
 - 完美可用率（100%）：53 个
 - 高可用率（80%-99%）：15 个
-- 中等可用率（50%-79%）：1 个
-- 低可用率（<50%）：11 个
+- 中等可用率（50%-79%）：2 个
+- 低可用率（<50%）：10 个
 
 <div style="font-size: 11px;">
 
@@ -230,9 +230,9 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🎬茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod | 90 | 10 | 90.0% | 0 |
 | ✅ | 🎬豆瓣资源 | https://caiji.dbzy5.com/api.php/provide/vod | 90 | 10 | 90.0% | 0 |
 | ✅ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 84 | 16 | 84.0% | 0 |
-| 🚨 | 🎬飘零资源 | https://p2100.net/api.php/provide/vod | 76 | 24 | 76.0% | 5 |
-| ✅ | 🎬极速资源 | https://jszyapi.com/api.php/provide/vod | 49 | 51 | 49.0% | 0 |
-| 🚨 | 🔞幸资源 | https://xzybb2.com/api.php/provide/vod | 25 | 75 | 25.0% | 64 |
+| 🚨 | 🎬飘零资源 | https://p2100.net/api.php/provide/vod | 75 | 25 | 75.0% | 6 |
+| ✅ | 🎬极速资源 | https://jszyapi.com/api.php/provide/vod | 50 | 50 | 50.0% | 0 |
+| 🚨 | 🔞幸资源 | https://xzybb2.com/api.php/provide/vod | 24 | 76 | 24.0% | 65 |
 | 🚨 | 🎬U酷88 | https://jjpz.hafrey.dpdns.org/?url=https://api.ukuapi88.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬U酷资源 | https://jjpz.hafrey.dpdns.org/?url=https://api.ukuapi.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬如意资源 | https://jjpz.hafrey.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
