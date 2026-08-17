@@ -146,11 +146,11 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-08-17 21:30 CST）
+## API 状态（最近更新：2026-08-17 22:15 CST）
 
 - 总 API 数量：80
-- 成功 API 数量：67
-- 失败 API 数量：13
+- 成功 API 数量：68
+- 失败 API 数量：12
 - 平均可用率：79.9%
 - 完美可用率（100%）：52 个
 - 高可用率（80%-99%）：12 个
@@ -215,7 +215,7 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🔞辣椒资源 | https://apilj.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 🔞黄AVZY | https://www.pgxdy.com/api/json.php | 100 | 0 | 100.0% | 0 |
 | ✅ | 🎬猫眼资源 | https://api.maoyanapi.top/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
-| ❌ | 🔞AIvin | http://lbapiby.com/api.php/provide/vod | 99 | 1 | 99.0% | 1 |
+| ✅ | 🔞AIvin | http://lbapiby.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🔞乐播资源 | https://lbapi9.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🔞鲨鱼资源 | https://shayuapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🎬无尽资源1 | https://api.wujinapi.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
