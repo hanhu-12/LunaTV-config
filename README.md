@@ -146,12 +146,12 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-08-20 04:11 CST）
+## API 状态（最近更新：2026-08-20 05:14 CST）
 
 - 总 API 数量：80
 - 成功 API 数量：68
 - 失败 API 数量：12
-- 平均可用率：82.7%
+- 平均可用率：82.8%
 - 完美可用率（100%）：55 个
 - 高可用率（80%-99%）：10 个
 - 中等可用率（50%-79%）：3 个
@@ -221,15 +221,15 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🔞AIvin | http://lbapiby.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🔞乐播资源 | https://lbapi9.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🔞细胞资源 | https://www.xxibaozyw.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
+| ✅ | 🎬爱奇艺 | https://iqiyizyapi.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 🎬豆瓣资源 | https://caiji.dbzy5.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 🎬无尽资源1 | https://api.wujinapi.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
-| ✅ | 🎬爱奇艺 | https://iqiyizyapi.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | 🔞奶香资源 | https://Naixxzy.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 85 | 15 | 85.0% | 0 |
-| ✅ | 🎬电影天堂 | http://caiji.dyttzyapi.com/api.php/provide/vod | 80 | 20 | 80.0% | 0 |
-| ✅ | 🎬优质资源 | https://api.yzzy-api.com/inc/apijson.php | 57 | 43 | 57.0% | 0 |
-| ✅ | 🎬非凡影视 | https://cj.ffzyapi.com/api.php/provide/vod | 54 | 46 | 54.0% | 0 |
-| ✅ | 🎬非凡资源 | https://api.ffzyapi.com/api.php/provide/vod | 54 | 46 | 54.0% | 0 |
+| ✅ | 🎬电影天堂 | http://caiji.dyttzyapi.com/api.php/provide/vod | 81 | 19 | 81.0% | 0 |
+| ✅ | 🎬优质资源 | https://api.yzzy-api.com/inc/apijson.php | 58 | 42 | 58.0% | 0 |
+| ✅ | 🎬非凡影视 | https://cj.ffzyapi.com/api.php/provide/vod | 55 | 45 | 55.0% | 0 |
+| ✅ | 🎬非凡资源 | https://api.ffzyapi.com/api.php/provide/vod | 55 | 45 | 55.0% | 0 |
 | 🚨 | 🎬U酷88 | https://jjpz.hafrey.dpdns.org/?url=https://api.ukuapi88.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬U酷资源 | https://jjpz.hafrey.dpdns.org/?url=https://api.ukuapi.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬如意资源 | https://jjpz.hafrey.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
