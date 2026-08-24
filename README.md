@@ -146,12 +146,12 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-08-25 05:17 CST）
+## API 状态（最近更新：2026-08-25 06:13 CST）
 
 - 总 API 数量：80
-- 成功 API 数量：64
-- 失败 API 数量：16
-- 平均可用率：82.9%
+- 成功 API 数量：63
+- 失败 API 数量：17
+- 平均可用率：82.8%
 - 完美可用率（100%）：46 个
 - 高可用率（80%-99%）：19 个
 - 中等可用率（50%-79%）：3 个
@@ -222,12 +222,12 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🔞91麻豆 | https://91md.me/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 🔞AIvin | http://lbapiby.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 🔞鲨鱼资源 | https://shayuapi.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
-| 🚨 | 🔞jkun资源 | https://jkunzyapi.com/api.php/provide/vod | 95 | 5 | 95.0% | 5 |
 | ✅ | 🔞奶香资源 | https://Naixxzy.com/api.php/provide/vod | 95 | 5 | 95.0% | 0 |
-| 🚨 | 🎬iKun资源 | https://ikunzyapi.com/api.php/provide/vod | 94 | 6 | 94.0% | 6 |
-| 🚨 | 🔞奥斯卡 | https://aosikazy.com/api.php/provide/vod | 90 | 10 | 90.0% | 9 |
-| 🚨 | 🎬爱奇艺 | https://iqiyizyapi.com/api.php/provide/vod | 87 | 13 | 87.0% | 10 |
-| ✅ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 79 | 21 | 79.0% | 0 |
+| 🚨 | 🔞jkun资源 | https://jkunzyapi.com/api.php/provide/vod | 94 | 6 | 94.0% | 6 |
+| 🚨 | 🎬iKun资源 | https://ikunzyapi.com/api.php/provide/vod | 93 | 7 | 93.0% | 7 |
+| 🚨 | 🔞奥斯卡 | https://aosikazy.com/api.php/provide/vod | 89 | 11 | 89.0% | 10 |
+| 🚨 | 🎬爱奇艺 | https://iqiyizyapi.com/api.php/provide/vod | 86 | 14 | 86.0% | 11 |
+| ❌ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 79 | 21 | 79.0% | 1 |
 | ✅ | 🎬魔都动漫 | https://caiji.moduapi.cc/api.php/provide/vod | 56 | 44 | 56.0% | 0 |
 | ✅ | 🎬魔都资源 | https://www.mdzyapi.com/api.php/provide/vod | 53 | 47 | 53.0% | 0 |
 | 🚨 | 🎬U酷88 | https://jjpz.hafrey.dpdns.org/?url=https://api.ukuapi88.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
