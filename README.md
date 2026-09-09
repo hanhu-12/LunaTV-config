@@ -146,7 +146,7 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-09-09 13:25 CST）
+## API 状态（最近更新：2026-09-09 18:11 CST）
 
 - 总 API 数量：80
 - 成功 API 数量：67
@@ -228,9 +228,9 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🎬无尽资源1 | https://api.wujinapi.com/api.php/provide/vod | 94 | 6 | 94.0% | 0 |
 | ✅ | 🔞鲨鱼资源 | https://shayuapi.com/api.php/provide/vod | 91 | 9 | 91.0% | 0 |
 | ✅ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 88 | 12 | 88.0% | 0 |
-| ✅ | 🔞幸资源 | https://xzybb2.com/api.php/provide/vod | 75 | 25 | 75.0% | 0 |
-| 🚨 | 🔞细胞资源 | https://www.xxibaozyw.com/api.php/provide/vod | 68 | 32 | 68.0% | 32 |
-| 🚨 | 🔞AIvin | http://lbapiby.com/api.php/provide/vod | 21 | 79 | 21.0% | 79 |
+| ✅ | 🔞幸资源 | https://xzybb2.com/api.php/provide/vod | 76 | 24 | 76.0% | 0 |
+| 🚨 | 🔞细胞资源 | https://www.xxibaozyw.com/api.php/provide/vod | 67 | 33 | 67.0% | 33 |
+| 🚨 | 🔞AIvin | http://lbapiby.com/api.php/provide/vod | 20 | 80 | 20.0% | 80 |
 | 🚨 | 🎬U酷88 | https://jjpz.hafrey.dpdns.org/?url=https://api.ukuapi88.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬U酷资源 | https://jjpz.hafrey.dpdns.org/?url=https://api.ukuapi.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬如意资源 | https://jjpz.hafrey.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
